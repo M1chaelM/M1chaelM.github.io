@@ -8,7 +8,7 @@
 
 ## 2015
 
--   [OSA | Improved time-of-flight range acquisition technique in underwater lidar experiments](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-54-18-5715)
+-   [OSA: Improved time-of-flight range acquisition technique in underwater lidar experiments](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-54-18-5715)
 
 ## 2014
 
@@ -22,7 +22,7 @@
 
 ## 2012
 
--   [OSA | Detection of an underwater target through modulated lidar experiments at grazing incidence in a deep wave basin](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-51-31-7690)
+-   [OSA: Detection of an underwater target through modulated lidar experiments at grazing incidence in a deep wave basin](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-51-31-7690)
 
 ## 2008
 
@@ -74,4 +74,3 @@
 # Commercial
 
 -   [3d at Depth](https://www.3datdepth.com/)
-\
